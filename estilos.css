@@ -1,0 +1,115 @@
+ 
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background: #cbd6e4;
+}
+aside{
+	background:#white ;
+}
+fieldset{
+	background: white;
+} 
+
+#container{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{
+	height: 180px;
+	width: 100%;
+	border: 1px solid black;
+	background: #043c7c; 
+}
+
+
+nav ul li {
+	float: left;
+	color: white;
+	margin: 15px;
+	line-height: 15px;
+	margin-top: 20px;
+	margin-left: 70px;
+}
+
+ul li a{
+	text-decoration: none; 
+}
+
+a:hover{
+	text-decoration-color: underline;
+ 	text-decoration: underline;
+ 	background: white;
+	color: black;
+}
+
+nav{
+	background:#7c99bc;
+	height: 50px;
+	padding-left: 200px;
+	border: 1px solid black;
+}
+
+
+.divider{
+	clear: both;
+}
+#articles{
+	width: 100%;
+	min-height: 500px;
+	float: left;
+	background: #F0FFFF;
+	border: 1px solid black; 
+}
+#articles_proyectos{
+	width: 100%;
+	min-height: 500px;
+	float: center;
+	background: #F0FFFF;
+	border: 1px solid black;
+}
+
+#estudios{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#proyectos{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#contacto{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pry1
+{
+	margin-left: 20px; 
+	margin-top: 20px;
+}
+
+
+footer{
+	line-height: 30px;
+	background: white;
+	text-align: center;
+	color: black;
+	margin: auto;
+	border:  1px solid white 
+}
+
+table
+{
+	margin-top: 5px;
+	margin: 2px;
+	background-color: white;
+	border-color: white;
+	width: 100%;
+	border:3px solid black;
